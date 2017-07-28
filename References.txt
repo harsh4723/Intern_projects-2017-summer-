@@ -1,0 +1,9 @@
+Ref:Multi-Label Classification: An Overview Grigorios Tsoumakas, Ioannis Katakis
+
+Ref: ML-KNN:A lazy learning approach to multi-label learning
+
+Ref:Extreme Learning Machine for Multilayer Perceptron IEEE
+
+Ref:Pattern Recognition KOUTROUMBAS and THEODORIDIS
+
+Ref:MULTI-LABEL CLASSIFICATION OF MUSIC INTO EMOTIONS ISMIR 2008
